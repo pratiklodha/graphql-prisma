@@ -1,0 +1,3 @@
+# reviews - think of it like a project name, default - stage name
+endpoint: http://localhost:4466/reviews/defaults
+datamodel: datamodel.graphql
